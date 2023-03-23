@@ -1,0 +1,28 @@
+.parrafo{
+    width: 200px;
+    height: auto;
+    padding-bottom: 20px;
+    border-bottom: solid 3px black;
+}
+.parrafo_uno{
+background-color: #918255;
+}
+.parrafo_dos{
+background-color: #6d6d27;
+}
+.parrafo_tres{
+background-color: #969426;
+}
+.tituloCancion{
+background-color: #f0e9da;
+}
+.Titulo{
+    background-color: rgb(217, 226, 223);
+}
+.poema{
+    width: 1000px;
+  height: auto;
+    display: flex;
+    justify-content: center;
+  align-items: center;
+}
